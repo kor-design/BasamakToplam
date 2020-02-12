@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\bin\Debug\rakamlarToplami.exe.config
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\bin\Debug\rakamlarToplami.exe
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\bin\Debug\rakamlarToplami.pdb
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\obj\Debug\rakamlarToplami.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\obj\Debug\rakamlarToplami.exe
+C:\Users\Windows10\Documents\GitHub\BasamakToplam\rakamlarToplami\rakamlarToplami\obj\Debug\rakamlarToplami.pdb
